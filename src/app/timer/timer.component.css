@@ -1,0 +1,30 @@
+header{
+  position: relative;
+  background: white;
+  padding: 0;
+  border-bottom: 1px solid #e66b6b;
+  font-style: italic;
+  font-size: 24px;
+
+}
+
+a{
+  color: rgb(14, 192, 132);
+
+}
+
+a:hover{
+  background: #e66b6b;
+  color: white;
+  cursor: pointer;
+  width: auto;
+  text-align: center;
+  display: inline-block;
+
+}
+
+.container{
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
